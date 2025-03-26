@@ -46,7 +46,7 @@ function App() {
     resetBoard();
   };
   const handleDraw = () => {
-    window.alert('Oops! The Game ended ina draw.');
+    window.alert('Oops! The Game ended in a horrible, dissatisfying draw.');
     resetBoard()
   };
 
